@@ -1,6 +1,7 @@
 # Sistema de Padaria
 ### Desenvolvedores:
 > Daniel Carlos Joana
+
 Este é um projeto simples de um sistema de padaria desenvolvido em Python. O sistema permite gerenciar o estoque de produtos, registrar vendas e atualizar as quantidades disponíveis.
 
 ## Funcionalidades
